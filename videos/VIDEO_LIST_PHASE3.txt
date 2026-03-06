@@ -1,0 +1,15 @@
+﻿alligatorCracking_1.mp4 -> data/videos/raw/alligator_cracking/alligator_01/
+alligatorCracking_2.mp4 -> data/videos/raw/alligator_cracking/alligator_02/
+alligatorCracking_3.mp4 -> data/videos/raw/alligator_cracking/alligator_03/
+alligatorCracking_4.mp4 -> data/videos/raw/alligator_cracking/alligator_04/
+alligatorCracking_5.mp4 -> data/videos/raw/alligator_cracking/alligator_05/
+
+raveling_1.mp4 -> data/videos/raw/raveling/raveling_01/
+raveling_2.mp4 -> data/videos/raw/raveling/raveling_02/
+
+transverse_cracking_01.mp4 -> data/videos/raw/transverse_cracking/transverse_01/
+transverse_cracking_02.mp4 -> data/videos/raw/transverse_cracking/transverse_02/
+transverse_cracking_03.mp4 -> data/videos/raw/transverse_cracking/transverse_03/
+
+roadPotholes_1.mp4 -> data/videos/raw/road_potholes/potholes_01/
+roadPotholes_2.mp4 -> data/videos/raw/road_potholes/potholes_02/
